@@ -7,7 +7,7 @@ Session: 2025–2026
  College: Guru Nanak Dev Engineering College, Ludhiana🏫 
  <br>
  Induction Program Summary
-The Induction Program was conducted on 31 July for [CSE and IT] and it was an enlightening experience for us as first-year students. It helped us understand the college culture, faculty, and various academic and non-academic opportunities. 
+<br>The Induction Program was conducted on 31 July for [CSE and IT] and it was an enlightening experience for us as first-year students. It helped us understand the college culture, faculty, and various academic and non-academic opportunities. 
 
 
 ✅ Department-wise Introduction
